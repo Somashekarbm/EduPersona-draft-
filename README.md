@@ -83,5 +83,3 @@ Contributions are welcome! Feel free to open issues or pull requests for bug fix
 - Special thanks to the open-source communities behind pandas, scikit-learn, Surprise, and SQLite for their invaluable contributions.
 
 ---
-
-Feel free to customize this README template further based on additional details specific to your project. It should serve as a comprehensive guide for users and contributors, outlining the project’s purpose, setup instructions, usage guidelines, and more.
