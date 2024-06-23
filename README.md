@@ -44,8 +44,7 @@ Ensure you have Python 3.7+ installed along with the following libraries:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/awesome-recommendation-system.git
-   cd awesome-recommendation-system
+   git clone https://github.com/Somashekarbm/EduPersona.git
    ```
 
 ## Usage
